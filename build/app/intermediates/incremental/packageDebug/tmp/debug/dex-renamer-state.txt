@@ -1,0 +1,4 @@
+#Sat Jun 11 01:40:59 GMT+01:00 2022
+base.0=C\:\\Users\\Mayna\\Downloads\\mi_card_flutter-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
